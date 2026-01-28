@@ -1,1 +1,1 @@
-MintHome Splash Page
+#MintHome Splash Page
