@@ -1,1 +1,1 @@
-# minthome.github.io
+MintHome Splash Page
